@@ -10,6 +10,7 @@ interface RunOptions {
 }
 
 export class ServerApp {
+  
   static run({ base, limit, showTable, fileDestination, fileName }: RunOptions) {
     console.log("Server is running...");
 

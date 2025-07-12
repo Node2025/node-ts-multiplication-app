@@ -1,5 +1,5 @@
 import fs from "fs";
-import { yarg } from "./config/plugins/yargs.plugin";
+import { yarg } from "./config/plugins/args.plugin";
 
 // !PRIMERA FORMA
 // const message: string = "Hello, TypeScript!";
